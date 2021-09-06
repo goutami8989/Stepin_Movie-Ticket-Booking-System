@@ -48,7 +48,7 @@ Movie Ticket Booking System have few inbuilt features like
 ### 4W&#39;s and 1&#39;H
 
 ## Who
-## * Theater
+### * Theater
 
 ## What
 *   To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
