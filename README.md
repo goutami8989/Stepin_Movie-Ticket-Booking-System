@@ -24,8 +24,7 @@ Folder             | Description
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Images`         | Screen-shots of the working code
 
-## Features
-
+##  Features
 | Feature Id | Feature |
 | -----------|---------|
 |F_01| Login to System | |
