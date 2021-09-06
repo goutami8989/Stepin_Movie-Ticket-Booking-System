@@ -1,0 +1,19 @@
+name: C/C++ CI Static Code Analysis
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: install cppcheck
+      run: sudo apt -y install cppcheck
+    - name: cpp Check
+      run: cppcheck 3_Implementation
