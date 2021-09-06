@@ -10,10 +10,10 @@ The main goal of our project is to provide various types of customer facilities,
    It should fulfill almost all the process requirements of booking a ticket
 
 ## Features
-## Booking tickets
-## Cancel tickets
-## Change ticket price(only admin)
-## View all booking records
+#### Booking tickets
+#### Cancel tickets
+#### Change ticket price(only admin)
+#### View all booking records
 ### Benefits
 #### Movie Ticket Booking system provides wide range of benefit they are as follows:
 #### Provides flexibility
@@ -55,7 +55,7 @@ Movie Ticket Booking System have few inbuilt features like
 *   This issue is in all parts of the world in theater where there is a lot of booking,cancellation of tickets happening in all the time
 
 ## How
-## *   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
+*   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
 
 ### Detail requirements
 
