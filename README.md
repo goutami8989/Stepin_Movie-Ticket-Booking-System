@@ -11,7 +11,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 -->
 
-![Code_Quality_Grade](https://www.code-inspector.com/project/27638/status/svg)
+![CodeQuality_Grade](https://www.code-inspector.com/project/27638/status/svg)
 ![Code_Quality_Score](https://www.code-inspector.com/project/27638/score/svg)
 
 
