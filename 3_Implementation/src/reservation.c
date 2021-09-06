@@ -14,7 +14,7 @@ void reserveticket(int *array,int price,int selection )
 			if (array[i]==0)
 				printf("%d\t",i);
 			else
-				printf("\t",i);
+				printf("*\t",i);
 			if(i%10==0)
 				printf("\n\n");
 		}
