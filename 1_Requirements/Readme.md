@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-## * The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book  the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records
+### The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book  the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records
 
 ## Research
  Movie Ticket Booking System
@@ -48,7 +48,7 @@ Movie Ticket Booking System have few inbuilt features like
 ### 4W&#39;s and 1&#39;H
 
 ## Who
-* Theater
+## * Theater
 
 ## What
 *   To bulid a system to book ticket,cancel ticket,view reserverd seats,change price of ticket(only admin)
@@ -63,6 +63,7 @@ Movie Ticket Booking System have few inbuilt features like
 ## *   By creating a system which will provide all the functionalities required,the booking of, cancelling of the tickes and other actions will be take more time and system needs more workers for these actions
 
 ### Detail requirements
+
 ## High Level Requirements 
 | ID | Description | Category | Status | 
 | ----- | ----- | ------- | ---------|
@@ -71,7 +72,6 @@ Movie Ticket Booking System have few inbuilt features like
 | HR03 | User shall be able to get summary of the ticket booked | Techincal | IMPLEMENTED |
 | HR04 | User shall be able to cancel a ticket| Techincal | IMPLEMENTED |
 | HR05 | User shall be able to view the reserved seats  | Techincal | IMPLEMENTED |
-
 
 ### Low level Requirements
  
