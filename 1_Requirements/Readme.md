@@ -82,8 +82,7 @@ Movie Ticket Booking System have few inbuilt features like
 | LR03| If appropriate login details are not entered a message is displayed-"wrong password" | HR01 | IMPLEMENTED |
 | LR04 |Displaying the movies available  | HR02 | IMPLEMENTED |
 | LR05 |If user specifies seat number which  is booked ,message appears that the seat is unavaliable  | HR05 | IMPLEMENTED |
-| LR06 |Displaying the summary of the ticket booked  | HR03 | IMPLEMENTED |
-| LR07 | Admin can change the price for the movie | HR02 | IMPLEMENTED |
+| LR06 |Displaying the summary of the ticket booked  | HR03 | IMPLEMENTED || LR07 | Admin can change the price for the movie | HR02 | IMPLEMENTED |
 
 
 
