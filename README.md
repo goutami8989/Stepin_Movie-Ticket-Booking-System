@@ -21,7 +21,6 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Images`         | Screen-shots of the working code
-
 ##  Features
 | Feature Id | Feature |
 | -----------|---------|
