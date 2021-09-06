@@ -9,8 +9,8 @@
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image5-details%20to%20purchase%20ticket.PNG)
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image6-summary%20of%20ticket.PNG)
 
-
-
+![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image9-booking%20same%20seatnum.PNG)
+![screen()
 
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image13-summary%20of%20cancelticket.PNG)
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image14-admin%20login.PNG)
