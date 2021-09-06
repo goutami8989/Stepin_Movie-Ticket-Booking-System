@@ -15,14 +15,14 @@ Cancel tickets
 Change ticket price(only admin)
 View all booking records
 ### Benefits
-Movie Ticket Booking system provides wide range of benefit they are as follows:
+## Movie Ticket Booking system provides wide range of benefit they are as follows:
 Provides flexibility
 For better performance
 User Friendly
 Can Select the seats as per choose
 
 ### Defining Our System
-Explanation
+### Explanation
 Movie Ticket Booking System have few inbuilt features like
       Admin
     * Login 
