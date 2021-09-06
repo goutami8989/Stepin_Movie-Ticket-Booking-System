@@ -5,12 +5,12 @@ BUILD = build
 SRC = main.c\
 movie_details.c\
 -I ../src\
-#src/ticketbook.c\
+
 
 
 # All test source files
 TEST_SRC = _I ../src\
-#src/ticketbook.c\
+
 
 test/test.c\
 unity/unity.c\
