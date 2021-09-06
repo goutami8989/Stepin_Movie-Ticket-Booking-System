@@ -1,7 +1,5 @@
 # Test Plan and Test Ouput
 
-## Table no Test plan
-
 | **Test ID** | **HLT ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**PASS/FAIL**  |    
 |-------------|-----|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  T_01|H_01| Provide required details for login to book a ticket| password| Successfully logined In | Successfully logined In| PASS |
