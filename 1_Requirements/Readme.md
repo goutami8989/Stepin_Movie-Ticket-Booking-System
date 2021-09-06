@@ -10,7 +10,7 @@ The main goal of our project is to provide various types of customer facilities,
    It should fulfill almost all the process requirements of booking a ticket
 
 ## Features
-### Booking tickets
+#### Booking tickets
 #### Cancel tickets
 #### Change ticket price(only admin)
 #### View all booking records
