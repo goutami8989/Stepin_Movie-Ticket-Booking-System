@@ -1,4 +1,7 @@
 # SDLC Activity Based Learning
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/77ffd735cb74469f8e9f3ae436be4133)](https://app.codacy.com/gh/goutami8989/Stepin_Movie-Ticket-Booking-System?utm_source=github.com&utm_medium=referral&utm_content=goutami8989/Stepin_Movie-Ticket-Booking-System&utm_campaign=Badge_Grade_Settings)
+
 ![Banner](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
 
 <!--
