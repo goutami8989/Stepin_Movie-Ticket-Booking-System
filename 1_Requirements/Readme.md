@@ -14,8 +14,8 @@ The main goal of our project is to provide various types of customer facilities,
 #### Cancel tickets
 #### Change ticket price(only admin)
 #### View all booking records
-### Benefits
-#### Movie Ticket Booking system provides wide range of benefit they are as follows:
+## Benefits
+#### Movie Ticket Booking system provides wide range of benefit they are as follows
 #### Provides flexibility
 #### For better performance
 #### User Friendly
