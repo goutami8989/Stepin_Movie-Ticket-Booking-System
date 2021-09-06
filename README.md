@@ -12,7 +12,6 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 -->
 
 ![Code_Quality_Grade](https://www.code-inspector.com/project/27638/status/svg)
-
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
