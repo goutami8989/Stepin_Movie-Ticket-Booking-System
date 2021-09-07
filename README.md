@@ -17,6 +17,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 [![cppcheck-action](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml)
 [![C/C++ CI](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/c-build.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/c-build.yml)
 [![Unit testing](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/unit-test.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/unit-test.yml)
+[![Contribution Check - Git Inspector](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/gitinspector.yml)
 
 ## Folder Structure
 Folder             | Description
