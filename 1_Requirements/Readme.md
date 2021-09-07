@@ -3,8 +3,7 @@
   The aim of the project is to provide information of the MOVIE TICKET BOOKING SYTEM to a customer to book  the tickets.The project has been developed to carry out process easily and quickly.The system enables the user to Book tickets,Cancel tickets,View all booking records
 
 ## Research
- Movie Ticket Booking System
-Cinemas help in contributing to our daily memories as they provide an essential part of our culture,going to cinemas has been the culture of almost all the families of today’s generation. It is a time when the family can spend some time altogether by stealing some hours from their busy schedule.Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters. Customert can book ticket for the film, seat management, ticket cancellation
+Cinemas help in contributing to our daily memories as they provide an essential part of our culture,going to cinemas has been the culture of almost all the families of today’s generation. It is a time when the family can spend some time altogether by stealing some hours from their busy schedule. Movie Ticket Booking System provides the customers facility to book tickets for a movie and to gather information about the movies and theaters.Customers can book ticket of his choice and may cancel a ticket
 
 The main goal of our project is to provide various types of customer facilities, and provide good  customer service
    It should fulfill almost all the process requirements of booking a ticket
@@ -19,7 +18,7 @@ The main goal of our project is to provide various types of customer facilities,
 #### Provides flexibility
 #### For better performance
 #### User Friendly
-#### Can Select the seats as per choose
+#### Can Select the seats as per choice
 
 ### Defining Our System
 ### Explanation
@@ -72,14 +71,14 @@ Movie Ticket Booking System have few inbuilt features like
  
 | ID | Description | HLR ID | Status (Implemented/Future) |
 | ------ | --------- | ------ | ----- |
-|LR01|User shall we able to login to the system with correct login details|HR01|IMPLEMENTED|
+|LR01|User shall be able to login to the system with correct login details|HR01|IMPLEMENTED|
 |LR02|User need to book a ticket in a user entry mode|HR01|IMPLEMENTED|
 |LR03| If appropriate login details are not entered a message is displayed-"wrong password" | HR01 | IMPLEMENTED |
 |LR04 |Displaying the movies available  | HR02 | IMPLEMENTED |
 |LR05| Admin can change the price for the movie| HR02|IMPLEMENTED|
 |LR06 |If user specifies seat number which  is booked ,message appears that the seat is unavaliable  | HR05 | IMPLEMENTED |
 |LR07 |Displaying the summary of the ticket booked  | HR03 |IMPLEMENTED|
-|LR08| Admin can change the price for the movie| HR02|IMPLEMENTED|
+
 
 
 
