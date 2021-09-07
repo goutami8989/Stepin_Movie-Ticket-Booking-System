@@ -78,7 +78,7 @@ Movie Ticket Booking System have few inbuilt features like
 |LR05| Admin can change the price for the movie| HR02|IMPLEMENTED|
 |LR06 |If user specifies seat number which  is booked ,message appears that the seat is unavaliable  | HR05 | IMPLEMENTED |
 |LR07 |Displaying the summary of the ticket booked  | HR03 |IMPLEMENTED|
-
-
-
+<!--
+Refernces Have refered google for some part of coding and information
+-->
 
