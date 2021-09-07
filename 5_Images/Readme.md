@@ -1,6 +1,4 @@
 ### Screenshots
-
-
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/Image1-login%20page.PNG)
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image2-user%20mode.PNG)
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image3-user%20mode.PNG)
@@ -14,4 +12,5 @@
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image14-admin%20login.PNG)
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image15-changeprice.PNG)
 ![screen](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/5_Images/image15wrong%20login.PNG)
+
 

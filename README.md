@@ -1,4 +1,5 @@
 # SDLC Activity Based Learning
+
 ![Banner](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/blob/main/1_Requirements/banner.png)
 
 <!--
@@ -11,8 +12,8 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 -->
 
-
-
+![Code_Quality_Grade](https://www.code-inspector.com/project/27638/status/svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ecd85a2c4234d69affd5a4d5d96af52)](https://www.codacy.com/gh/goutami8989/Stepin_Movie-Ticket-Booking-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=goutami8989/Stepin_Movie-Ticket-Booking-System&amp;utm_campaign=Badge_Grade)
 
 ## Folder Structure
 Folder             | Description
@@ -22,9 +23,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Images`         | Screen-shots of the working code
-
-## Features
-
+##  Features
 | Feature Id | Feature |
 | -----------|---------|
 |F_01| Login to System | |
@@ -33,8 +32,6 @@ Folder             | Description
 |F_04| Summary of Ticket |
 |F_05| Cancel a Ticket |
 |F_06| Logout |
-
-
 
 <!--
 
