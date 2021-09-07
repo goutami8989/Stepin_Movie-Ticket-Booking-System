@@ -14,6 +14,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 ![Code_Quality_Grade](https://www.code-inspector.com/project/27638/status/svg)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ecd85a2c4234d69affd5a4d5d96af52)](https://www.codacy.com/gh/goutami8989/Stepin_Movie-Ticket-Booking-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=goutami8989/Stepin_Movie-Ticket-Booking-System&amp;utm_campaign=Badge_Grade)
+[![cppcheck-action](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/goutami8989/Stepin_Movie-Ticket-Booking-System/actions/workflows/cppcheck.yml)
 
 ## Folder Structure
 Folder             | Description
