@@ -33,7 +33,7 @@ TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).$(EXEC)
 INC	= -Iinc\
 -Iunity
 
-all:$(SRC) $(BUILD)
+all: $(SRC) $(BUILD)
 	gcc $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
 
 
